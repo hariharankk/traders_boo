@@ -1,0 +1,4 @@
+prod:
+  host: 'redis-16731.c212.ap-south-1-1.ec2.cloud.redislabs.com'
+  pass: 'PvWQ9O2y5jsokvE55WyAKxWDtpe0vZ9w'
+  port: '16731'
